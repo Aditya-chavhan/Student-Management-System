@@ -82,7 +82,6 @@ StudentManagementSystem/
 
 └── update_student.html
 
-
 ---
 
 ## ⚙️ Prerequisites
